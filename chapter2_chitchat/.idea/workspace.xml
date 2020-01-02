@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b389a9f0-05f9-4282-8f3b-322ee2687d42" name="Default Changelist" comment="" />
+    <list default="true" id="b389a9f0-05f9-4282-8f3b-322ee2687d42" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +39,7 @@
     <property name="configurable.Module.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gwp/Chapter_2_Go_ChitChat/chitchat" />
     <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
   <component name="RunManager">
@@ -85,10 +88,10 @@
     <proxy>https://goproxy.io/</proxy>
   </component>
   <component name="WindowStateProjectService">
-    <state x="777" y="174" key="FileChooserDialogImpl" timestamp="1577871275383">
+    <state x="777" y="174" key="FileChooserDialogImpl" timestamp="1577971515364">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="777" y="174" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577871275383" />
+    <state x="777" y="174" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577971515364" />
     <state width="982" height="195" key="GridCell.Tab.0.bottom" timestamp="1577883795808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
