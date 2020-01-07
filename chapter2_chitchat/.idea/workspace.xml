@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b389a9f0-05f9-4282-8f3b-322ee2687d42" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/chapter2_chitchat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chapter2_chitchat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thread.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter2_chitchat1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter2_chitchat1/.idea/chapter2_chitchat1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter2_chitchat1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter2_chitchat1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter2_chitchat1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter2_chitchat1/data/thread.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter2_chitchat1/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +48,7 @@
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/GoProject/VgoProject/DispatchSer" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -48,6 +56,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.splitter.proportion" value="0.2579333" />
   </component>
   <component name="RunManager">
     <configuration name="go build chapter2_chitchat" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -95,11 +104,11 @@
     <proxy>https://goproxy.io/</proxy>
   </component>
   <component name="WindowStateProjectService">
-    <state x="971" y="218" key="FileChooserDialogImpl" timestamp="1578030954042">
+    <state x="971" y="218" key="FileChooserDialogImpl" timestamp="1578383586621">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="777" y="174" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577971515364" />
-    <state x="971" y="218" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1578030954042" />
+    <state x="971" y="218" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1578383586621" />
     <state width="982" height="195" key="GridCell.Tab.0.bottom" timestamp="1577883795808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -116,14 +125,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="982" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577883795808" />
-    <state x="506" y="75" key="SettingsEditor" timestamp="1578360219087">
+    <state x="-24" y="90" width="1337" height="920" key="SettingsEditor" timestamp="1578382957680">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="498" y="61" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577871279311" />
-    <state x="506" y="75" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1578360219087" />
+    <state x="-24" y="90" width="1337" height="920" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1578382957680" />
     <state x="828" y="336" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577881846196">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="828" y="336" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1577881846196" />
+    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1578382999214">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1578382999214" />
   </component>
 </project>
