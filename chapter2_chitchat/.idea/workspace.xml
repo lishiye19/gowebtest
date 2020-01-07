@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b389a9f0-05f9-4282-8f3b-322ee2687d42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/thread.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter2_chitchat1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter2_chitchat1/.idea/chapter2_chitchat1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter2_chitchat1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter2_chitchat1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter2_chitchat1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter2_chitchat1/data/thread.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter2_chitchat1/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter2_chitchat1/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter2_chitchat1/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
