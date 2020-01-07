@@ -4,7 +4,7 @@
   <component name="GoLibraries">
     <option name="urls">
       <list>
-        <option value="file://$MODULE_DIR$/usrmodules" />
+        <option value="file://$MODULE_DIR$/chitchatmoudles" />
       </list>
     </option>
   </component>
