@@ -17,6 +17,7 @@ func index(w http.ResponseWriter,r *http.Request){
 		"templates/layout.html",
 		"templates/navbar.html",
 		"templates/index.html",
+
 	}
 	templates:=template.Must(template.ParseFiles(files...))
 	threads,err:=data.Threads()
